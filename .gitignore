@@ -1,0 +1,17 @@
+/consuming-rest/.gitattributes
+/.idea/.gitignore
+/consuming-rest/.gitignore
+/consuming-rest/src/main/resources/application.yaml
+/.idea/compiler.xml
+/consuming-rest/src/main/java/com/example/consuming_rest/ConsumingRestApplication.java
+/consuming-rest/src/test/java/com/example/consuming_rest/ConsumingRestApplicationTests.java
+/.idea/encodings.xml
+/.idea/jarRepositories.xml
+/consuming-rest/.mvn/wrapper/maven-wrapper.properties
+/.idea/misc.xml
+/.idea/modules.xml
+/consuming-rest/mvnw
+/consuming-rest/mvnw.cmd
+/consuming-rest/pom.xml
+/.idea/Spring_Boot_Examples.iml
+/.idea/vcs.xml
