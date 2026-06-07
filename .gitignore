@@ -15,3 +15,16 @@
 /consuming-rest/pom.xml
 /.idea/Spring_Boot_Examples.iml
 /.idea/vcs.xml
+/accessing-data-mysql/.gitattributes
+/accessing-data-mysql/.gitignore
+/accessing-data-mysql/src/main/java/com/example/accessingdatamysql/AccessingDataMysqlApplication.java
+/accessing-data-mysql/src/test/java/com/example/accessingdatamysql/AccessingDataMysqlApplicationTests.java
+/accessing-data-mysql/src/main/resources/application.yaml
+/accessing-data-mysql/compose.yaml
+/.idea/dataSources.xml
+/accessing-data-mysql/.mvn/wrapper/maven-wrapper.properties
+/accessing-data-mysql/mvnw
+/accessing-data-mysql/mvnw.cmd
+/accessing-data-mysql/pom.xml
+/accessing-data-mysql/src/test/java/com/example/accessingdatamysql/TestAccessingDataMysqlApplication.java
+/accessing-data-mysql/src/test/java/com/example/accessingdatamysql/TestcontainersConfiguration.java

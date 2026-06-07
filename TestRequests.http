@@ -5,3 +5,9 @@ GET http://localhost:8080/greeting
 GET http://localhost:8080/greeting?name=Attila
 
 ###
+
+POST http://localhost:8080/demo/add?name=Attila&email=a@f.com
+###
+POST http://localhost:8080/demo/add?name=Béla&email=b@g.com
+###
+GET http://localhost:8080/demo/all
